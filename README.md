@@ -65,5 +65,5 @@ Deep Learning model deployment in real world.
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/Product-Recommendation-System.git
-   cd Product-Recommendation-System
+   git clone https://github.com/Akash22AD280/Product-recommendation-system.git
+   cd Product-recommendation-system
